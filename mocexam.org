@@ -1,6 +1,7 @@
 # -*- mode: org -*-
 
 * 参考URL
+https://bitbucket.org/eeeickythump/org-drill
 http://狩猟.net/2013/0830_214700.html
 ** スラッグ 							      :drill:
 適応鳥獣
